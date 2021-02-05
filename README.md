@@ -1,5 +1,5 @@
 # badapple
-A Mac OS Enumeration and Web Browser Artifact Acquisition tool
+Primarily a MacOS System and Web Browser Artifact Acquisition tool
 
 # Run Script:
 - chmod +x badapple.py
